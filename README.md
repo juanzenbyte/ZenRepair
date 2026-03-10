@@ -5,7 +5,7 @@ ZenRepair es una herramienta de diagnóstico/reparación de memorias USB que ope
 Características Principales
 1.	Soporte multiplataforma: Windows, Linux y macOS.
 2.	Generación dinámica de comandos según el sistema operativo.
-3.	Cinco categorías de operaciones: 1-escaneo, 2-detección de sectores dañados, 3-reparación, 4-recuperación de archivos y 5-formateo.
+3.	Cinco categorías de operaciones: 1) Escaneo, 2) Detección de sectores dañados, 3) Reparación, 4) Recuperación de archivos y 5) Formateo.
 4.	Guía de diagnóstico por síntomas para usuarios no técnicos.
 5.	Botón de copia directa al portapapeles para cada comando generado.
 6.	Sin dependencias externas: todo el código está embebido en un único archivo.
@@ -23,5 +23,5 @@ Limitaciones Técnicas
      dispositivo.
 2.   No ejecuta comandos directamente: es una herramienta generadora de comandos, no un ejecutor.
 3.	La detección de unidades predefinidas en el selector es genérica; el usuario debe verificar que la unidad mostrada corresponde a su USB real.
-•	Los comandos de badblocks en Linux pueden tardar entre 1 y varias horas en USBs de alta capacidad.
+4.	Los comandos de badblocks en Linux pueden tardar entre 1 y varias horas en USBs de alta capacidad.
 
