@@ -1,8 +1,6 @@
 # ZenRepair
-Descripción General
-Propósito
-ZenRepair es una herramienta de diagnóstico/reparación de memorias USB que opera en el navegador web como un archivo HTML5. Su función es guiar al usuario en la ejecución de los comandos correctos de reparación según su sistema operativo.
-El programa NO ejecuta comandos directamente en el sistema; en su lugar, genera los comandos precisos que el usuario debe ejecutar en su terminal, reduciendo errores humanos.
+Descripción General/Propósito
+ZenRepair es una herramienta de diagnóstico/reparación de memorias USB que opera en el navegador web como un archivo HTML5. Su función es guiar al usuario en la ejecución de los comandos correctos de reparación según su sistema operativo. El programa NO ejecuta comandos directamente en el sistema; en su lugar, genera los comandos precisos que el usuario debe ejecutar en su terminal, reduciendo errores humanos.
 
 Características Principales
 •	Soporte multiplataforma: Windows, Linux y macOS.
